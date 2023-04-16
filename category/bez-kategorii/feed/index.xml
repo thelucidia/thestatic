@@ -10,7 +10,7 @@
 <channel>
 	<title>Bez kategorii Archives - Lucidia</title>
 	<atom:link href="/category/bez-kategorii/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/category/bez-kategorii/</link>
 	<description></description>
 	<lastBuildDate>Wed, 05 Apr 2023 00:44:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2023/04/cropped-favicon-32x32.png</url>
 	<title>Bez kategorii Archives - Lucidia</title>
-	<link></link>
+	<link>/category/bez-kategorii/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
