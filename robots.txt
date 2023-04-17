@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /wp-includes/
-Disallow: /author/
-Disallow: /elementor-hf/
