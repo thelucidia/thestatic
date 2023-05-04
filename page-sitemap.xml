@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-05-03T16:56:27+00:00</lastmod>
+		<lastmod>2023-05-03T19:21:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Lucidian3-1024x1019.png</image:loc>
 		</image:image>
@@ -118,47 +118,6 @@
 	<url>
 		<loc>/privacy-policy/</loc>
 		<lastmod>2023-04-18T09:04:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/token-sale-terms-and-conditions/</loc>
-		<lastmod>2023-04-18T10:27:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/team/</loc>
-		<lastmod>2023-04-26T06:50:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Adel.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Feras2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Ahmad.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Den.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Jahongir.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/goro2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Marius.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Rula.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Timoor.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Suleiman.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Oscar.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/marketplace/</loc>
@@ -308,7 +267,7 @@
 	</url>
 	<url>
 		<loc>/play-now/</loc>
-		<lastmod>2023-05-03T19:09:34+00:00</lastmod>
+		<lastmod>2023-05-03T19:21:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/ue-logo-stacked-unreal-engine.png</image:loc>
 		</image:image>
@@ -419,6 +378,50 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Partner-1-300x140.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/team/</loc>
+		<lastmod>2023-05-03T19:31:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Adel.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Feras2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Ahmad.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Den.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Jahongir.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/goro2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Marius.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Rula.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Timoor.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Suleiman.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Oscar.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/token-sale-terms-and-conditions/</loc>
+		<lastmod>2023-05-03T19:52:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Lucidia-logo.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

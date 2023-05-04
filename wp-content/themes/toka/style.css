@@ -7575,3 +7575,78 @@ body .ngg-galleryoverview {
 
 /* end AUDIO */
 /* ============================================================================================================== */
+
+.elementor-kit-26169, :root{--e-global-color-primary:#00EAEF;--e-global-color-secondary:#E942F7;--e-global-color-text:#7A7A7A;--e-global-color-accent:#E942F7;--e-global-color-494ad93:#020710;--e-global-color-37af9f7:#FFFFFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;background-color:var( --e-global-color-494ad93 );}
+
+
+footer .footer-width-fixer .menu-item a{
+	padding:0!important;
+	background-image: linear-gradient( 90deg, #E942F7 0%, #00EAEF 100% );
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    display: inline-block;
+	text-transform:uppercase;
+}
+
+footer .footer-width-fixer .menu-item a:hover{
+color: var(--e-global-color-secondary )!important;
+	background-clip: unset;
+	background-image:unset;
+	-webkit-text-fill-color:unset;
+  text-fill-color: unset;
+}
+
+
+.gradient-text p{
+	    background-image: linear-gradient( 90deg, #E942F7 0%, #00EAEF 100% );
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    display: inline-block;
+} 
+
+.gradient-text.small p{
+	font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+	margin:0;
+}
+
+
+
+
+
+
+.video-background { 
+				transform:scale(1.5);
+        position: relative; 
+        padding-bottom: 56.25%;
+        overflow: hidden;
+        max-width: 100%;
+        height: auto;
+} 
+
+.video-background iframe,
+.video-background object,
+.video-background embed { 
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+}
+
+[data-id="ae17e59"] p{
+	margin:0;
+}
+
+body, #site-content{
+	overflow-x:hidden;
+}
