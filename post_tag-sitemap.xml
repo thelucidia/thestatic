@@ -2,31 +2,131 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/academy/tag/communityfirst/</loc>
-		<lastmod>2023-04-24T22:08:42+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucid/</loc>
+		<lastmod>2023-05-12T13:03:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucid-token-2/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/2023/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/3d-human-model/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/5referralprogram/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/acceleration/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/access/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/accessibility/</loc>
-		<lastmod>2023-04-24T22:24:57+00:00</lastmod>
+		<lastmod>2023-05-10T20:48:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/accessibleentrypoint/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/accessories/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/account-access/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/action-packed/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/advanced-ai-algorithms/</loc>
+		<lastmod>2023-05-10T16:08:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/adventure/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/advertising/</loc>
-		<lastmod>2023-05-08T14:25:22+00:00</lastmod>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/advertising-and-sponsorships/</loc>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/advertising-opportunities/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/advertisingopportunities/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/agency/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/ai/</loc>
-		<lastmod>2023-04-24T22:28:15+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ai-algorithms/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ai-avatar/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ai-avatar-digital-twin-creation-technology/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ai-brain-nft/</loc>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ai-in-gaming/</loc>
+		<lastmod>2023-05-12T11:20:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/ai-in-video-games/</loc>
-		<lastmod>2023-04-24T21:53:24+00:00</lastmod>
+		<lastmod>2023-05-12T13:56:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/ai-integration/</loc>
-		<lastmod>2023-04-24T22:18:00+00:00</lastmod>
+		<lastmod>2023-05-10T20:48:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/ai-training/</loc>
-		<lastmod>2023-04-24T22:18:00+00:00</lastmod>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ai-powered-npcs/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ai-powered-solutions/</loc>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/alphaaccess/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/and-advertising/</loc>
@@ -38,7 +138,7 @@
 	</url>
 	<url>
 		<loc>/academy/tag/and-metaverses/</loc>
-		<lastmod>2023-04-24T22:00:53+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/and-referral-program/</loc>
@@ -46,583 +146,2831 @@
 	</url>
 	<url>
 		<loc>/academy/tag/and-virtual-economy/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/android/</loc>
-		<lastmod>2023-04-24T22:24:57+00:00</lastmod>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/animation/</loc>
-		<lastmod>2023-04-24T22:14:44+00:00</lastmod>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/art/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/art-and-design/</loc>
-		<lastmod>2023-05-08T12:09:31+00:00</lastmod>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/art-gallery/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/art-monetization/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/artanddesign/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/artificial-intelligence/</loc>
-		<lastmod>2023-04-24T21:53:22+00:00</lastmod>
+		<lastmod>2023-05-12T18:49:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/artificial-intelligence-ai/</loc>
-		<lastmod>2023-04-24T22:00:53+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/artificial-intelligence-development/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/artificialintelligence/</loc>
+		<lastmod>2023-05-12T10:10:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/artistic-marketplace/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/artists/</loc>
-		<lastmod>2023-05-08T12:09:31+00:00</lastmod>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/artwork/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/assetappreciation/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/assets/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/augmented-reality/</loc>
-		<lastmod>2023-04-24T22:02:07+00:00</lastmod>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/automobile-nfts/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/automobilenfts/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/availability-of-platform/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/avatars/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/battle-royale/</loc>
-		<lastmod>2023-04-24T22:05:37+00:00</lastmod>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/battle-royale-mode/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/benefits/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/bestcryptoinvestments/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/bestcryptopresale/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/big-brands/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/big-players/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/blockchain/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/blockchain-gaming/</loc>
-		<lastmod>2023-04-24T22:10:17+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/blockchain-integration/</loc>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/blockchain-platform/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/blockchain-technology/</loc>
-		<lastmod>2023-04-24T21:44:28+00:00</lastmod>
+		<lastmod>2023-05-12T18:49:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/blockchain-based-racing-game/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/blockchainchoice/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/blockchaingaming/</loc>
-		<lastmod>2023-04-24T22:13:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:04:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/blockchainintegration/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/blockchaintechnology/</loc>
+		<lastmod>2023-05-12T10:10:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/brand-partnerships/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/brand-stores/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/brandpartnerships/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/brands/</loc>
-		<lastmod>2023-05-08T12:09:17+00:00</lastmod>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/burnevent/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/business/</loc>
-		<lastmod>2023-04-24T21:53:21+00:00</lastmod>
+		<lastmod>2023-05-12T18:38:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/business-engagement/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/business-opportunities/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/business-support/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/businesscreation/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/buy/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/buybackandburn/</loc>
-		<lastmod>2023-04-24T22:08:42+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/campaign/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/campaign-mode/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/capture-the-flag/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/careforme/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/celebrities/</loc>
 		<lastmod>2023-05-08T12:09:35+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/cellphone/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/changing-digital-world/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/changing-metaverse/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/charactermovement/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/characters/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/co-op/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/co-op-mode/</loc>
-		<lastmod>2023-04-24T22:05:37+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/co-operative-mode/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/coldstoragewallet/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/collaboration/</loc>
-		<lastmod>2023-04-24T22:03:56+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/collaborative-learning/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/collectors/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/commerce/</loc>
+		<lastmod>2023-05-12T11:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/commercial-element/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/community/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/communityparticipation/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/communitysupport/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/competition/</loc>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/competitive-multiplayer/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/competitiveevents/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/computer-vision-algorithms/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/concerts/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/conferences/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/connecting-with-clients/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/constantly-updated-algorithms/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/consulting/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/consulting-and-support-services/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/consulting-services/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/consultingservices/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/contentcreation/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/contractors/</loc>
-		<lastmod>2023-05-08T12:09:27+00:00</lastmod>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cooperative-gameplay/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/corporate-training/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cost/</loc>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/costefficiency/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/credentials/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/cross-platform/</loc>
-		<lastmod>2023-04-24T22:24:57+00:00</lastmod>
+		<lastmod>2023-05-10T20:48:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/crypto/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/crypto-pre-sale/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cryptocurrency/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cryptocurrency-exchanges/</loc>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cryptocurrency-investment/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cryptocurrency-pre-sale/</loc>
+		<lastmod>2023-05-10T16:08:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cryptoopportunity/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cryptopresale/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/customer-centric/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/customers/</loc>
-		<lastmod>2023-04-24T21:53:23+00:00</lastmod>
+		<lastmod>2023-05-12T14:08:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/customisededucation/</loc>
+		<lastmod>2023-05-10T18:41:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/customizable-characters/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/customization/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/customizationimprovements/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/customized-curriculums/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cutting-edge-ai/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cutting-edge-technology/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/cuttingedgetechnology/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/dao/</loc>
-		<lastmod>2023-04-24T22:10:17+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/daoelections/</loc>
+		<lastmod>2023-05-10T18:41:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/daoimplementation/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/data-registry/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/dataencryption/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/dataregistry/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/deathmatch/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/decentralization/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/decentralized/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/decentralized-blockchain/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/decentralized-control/</loc>
+		<lastmod>2023-05-10T16:08:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/decentralized-economy/</loc>
+		<lastmod>2023-05-10T14:58:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/decentralized-governance/</loc>
-		<lastmod>2023-04-24T22:00:53+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/decentralized-metaverse/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/decentralizedidentity/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/decentralizedoauth/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/decentralizedplatform/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/dedicated-support/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/designers/</loc>
 		<lastmod>2023-05-08T12:09:31+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/develop-your-embryo-nft/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/developer-friendly/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/development-time/</loc>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/did/</loc>
-		<lastmod>2023-04-24T22:16:37+00:00</lastmod>
+		<lastmod>2023-05-10T20:50:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/digital-art/</loc>
-		<lastmod>2023-05-08T12:09:31+00:00</lastmod>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-asset/</loc>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-assets/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-avatar/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-avatars/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/digital-collectibles/</loc>
-		<lastmod>2023-05-08T14:40:40+00:00</lastmod>
+		<lastmod>2023-05-12T12:49:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-content-applications/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/digital-economy/</loc>
-		<lastmod>2023-05-08T14:30:15+00:00</lastmod>
+		<lastmod>2023-05-12T18:38:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-identities/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-landscapes/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-marketplace/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-meeting-place/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/digital-presence/</loc>
-		<lastmod>2023-05-08T12:09:17+00:00</lastmod>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-trading-arena/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/digital-twin/</loc>
-		<lastmod>2023-04-24T21:53:22+00:00</lastmod>
+		<lastmod>2023-05-12T13:52:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-world/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digitalassets/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digitalcollections/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digitalidentities/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/digitalidentity/</loc>
-		<lastmod>2023-04-24T22:16:37+00:00</lastmod>
+		<lastmod>2023-05-10T20:50:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/diverse/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/diverseuserbase/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/diversification/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/driven-by/</loc>
-		<lastmod>2023-04-24T21:44:28+00:00</lastmod>
+		<lastmod>2023-05-12T18:49:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ea-sports/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/early-access/</loc>
+		<lastmod>2023-05-10T14:58:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/early-adopters/</loc>
+		<lastmod>2023-05-12T12:49:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/earlyadopters/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/earntokens/</loc>
-		<lastmod>2023-04-24T22:13:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:04:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/easy-signup/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/economygrowth/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ecosystemstrengthening/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/edtech/</loc>
 		<lastmod>2023-05-08T12:09:41+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/edtech-companies/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/edtechpartnerships/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/education/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/educational-content-creation/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/educationrevolution/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/efficiency/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/electronic-sports/</loc>
-		<lastmod>2023-04-24T22:02:07+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/embryo-attributes/</loc>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/encryption/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/entertainment/</loc>
 		<lastmod>2023-05-08T12:09:35+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/entertainmentindustry/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/entrepreneurship/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/environment-for-gaming/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-10T20:48:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/esports/</loc>
-		<lastmod>2023-05-08T14:25:22+00:00</lastmod>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/esports-competitions/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/esportsgrowth/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/event-marketplace/</loc>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/event-organization/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/events/</loc>
-		<lastmod>2023-05-08T12:09:35+00:00</lastmod>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ever-growing-digital-world/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/evolution-system/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/exciting-project/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/exclusive-collections/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/exclusive-experiences/</loc>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/exclusivecontent/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/exclusivexperiences/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/existing-wallet/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/facial-features/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/fan-base/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/fashion/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/fast-transactions/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/fasttransactions/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/fiatmoney/</loc>
+		<lastmod>2023-05-11T10:23:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/financial-transactions/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/financialopportunities/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/first-person-shooter/</loc>
-		<lastmod>2023-04-24T22:05:37+00:00</lastmod>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/fit2earn/</loc>
-		<lastmod>2023-04-24T22:13:18+00:00</lastmod>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/fitnesspartners/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/flexibility/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/forbes/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/fps/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/fps-game/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/free-market/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/free-to-play/</loc>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/freelance-services/</loc>
-		<lastmod>2023-05-08T12:09:27+00:00</lastmod>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/freelancers/</loc>
-		<lastmod>2023-05-08T12:09:27+00:00</lastmod>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/freelanceservices/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/freemium-model/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T12:47:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/freemiummodel/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/future-of-art-and-design-in-the-metaverse/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/future-of-branding-in-the-metaverse/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/future-of-digital-worlds/</loc>
+		<lastmod>2023-05-10T14:58:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/future-of-education/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/future-of-freelancing-in-the-metaverse/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/future-of-virtual-entertainment/</loc>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/futureofeducation/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/futureofentrepreneurship/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/futureofgaming/</loc>
+		<lastmod>2023-05-10T18:26:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/g2-esports/</loc>
-		<lastmod>2023-04-24T22:02:07+00:00</lastmod>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/galleries/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-community-growth/</loc>
+		<lastmod>2023-05-12T13:03:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-creation/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/game-creators/</loc>
-		<lastmod>2023-04-24T22:03:56+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-customization/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-developers/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/game-development/</loc>
-		<lastmod>2023-04-24T22:03:56+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-development-tools/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-engine/</loc>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-genres/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-industry/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/game-modes/</loc>
-		<lastmod>2023-04-24T22:05:37+00:00</lastmod>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/game-options/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/game-making-tools/</loc>
-		<lastmod>2023-04-24T22:05:37+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamechangers/</loc>
+		<lastmod>2023-05-10T18:26:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamechangingproject/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamecreation/</loc>
+		<lastmod>2023-05-10T18:26:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/gamedevelopment/</loc>
-		<lastmod>2023-04-24T22:14:44+00:00</lastmod>
+		<lastmod>2023-05-12T10:05:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gameengine/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamefeatures/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gameindustry/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamemodes/</loc>
+		<lastmod>2023-05-10T18:26:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gameplatform/</loc>
+		<lastmod>2023-05-10T18:26:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/gameplay/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gameplaymechanics/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/gamers/</loc>
-		<lastmod>2023-04-24T22:03:56+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/games/</loc>
-		<lastmod>2023-04-24T22:00:53+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/gaming/</loc>
-		<lastmod>2023-05-08T14:44:48+00:00</lastmod>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gaming-community/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/gaming-ecosystem/</loc>
-		<lastmod>2023-04-24T22:03:56+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gaming-environment/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gaming-experience/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gaming-in-the-metaverse/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gaming-industry/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gaming-technology/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gaming-friendly-environment/</loc>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamingexperience/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamingfocus/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gamingrevolution/</loc>
+		<lastmod>2023-05-11T10:23:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/gas-fee/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/genres/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/global-brands/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/globallydistributedkeyvaluedatabase/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/graphics/</loc>
-		<lastmod>2023-04-24T22:14:44+00:00</lastmod>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ground-floor/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/groundbreaking-project/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/groundbreakingproject/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/grow-your-embryo-nft/</loc>
-		<lastmod>2023-04-24T21:59:25+00:00</lastmod>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/growing-metaverse/</loc>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/growing-user-pool/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/growingdemand/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/growth-potential/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/growth-system/</loc>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/handling/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/haptic-devices/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/hidden-character-state/</loc>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/high-quality-games/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/hybriddao/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/identitymanagement/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/idos/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/igos/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersion/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersive/</loc>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersive-experiences/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersive-learning/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersive-online-environment/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersiveevents/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersivelearning/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/immersiveplatform/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-game-assets/</loc>
+		<lastmod>2023-05-12T12:49:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-game-currency-and-microtransactions/</loc>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-game-economy/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-game-items/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-game-prizes/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-game-tokens/</loc>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-game-transactions/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-gamecurrency/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-gamepurchases/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/in-gametokens/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/incentives/</loc>
-		<lastmod>2023-04-24T22:18:00+00:00</lastmod>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/incentivizedreferrals/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/inclusivity/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/incomegeneratingopportunities/</loc>
+		<lastmod>2023-05-11T10:23:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/incomegeneration/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/independent-creators/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/individuality/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/individualization/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/individualized-gaming-experience/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/industry-experts/</loc>
+		<lastmod>2023-05-10T14:58:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/influencers/</loc>
 		<lastmod>2023-05-08T12:09:35+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/initial-dex-offerings/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/initial-game-offering/</loc>
+		<lastmod>2023-05-12T12:49:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/initialgameofferings/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/innovation/</loc>
+		<lastmod>2023-05-10T18:26:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/innovation-2/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/innovative-project/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/innovativegaming/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/innovativeideas/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/intellectualproperty/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/intelligentenemies/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/interactive/</loc>
-		<lastmod>2023-04-24T21:59:25+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interactive-advertising-campaigns/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interactive-features/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interactive-zones/</loc>
+		<lastmod>2023-05-12T11:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interactiveexperiences/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interactiveteaching/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interactivity/</loc>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interests/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/internet-forever/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/internettransformation/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/interoperability/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/interoperable/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/investing/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/investment/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/investmentopportunity/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/investoropportunities/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/investors/</loc>
+		<lastmod>2023-05-10T14:58:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/ios/</loc>
-		<lastmod>2023-04-24T22:24:57+00:00</lastmod>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/jobmarket/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/key-value-store/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/keyrotation/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/keys/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/learn2earn/</loc>
-		<lastmod>2023-04-24T22:13:18+00:00</lastmod>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/learning/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/learning-opportunities/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/learningecosystem/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/licensing/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lifelike-digital-duplicate/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/liquidity/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/live-events/</loc>
+		<lastmod>2023-05-12T11:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/local-host-interaction/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/longtermsuccess/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/loot/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/low-fees/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lowfees/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucid-2/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucid-token/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/lucidia/</loc>
-		<lastmod>2023-05-08T14:44:48+00:00</lastmod>
+		<lastmod>2023-05-12T13:52:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidia-app/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidia-community/</loc>
+		<lastmod>2023-05-12T13:03:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidia-did-sdk/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/lucidia-marketplace/</loc>
-		<lastmod>2023-05-08T14:40:40+00:00</lastmod>
+		<lastmod>2023-05-12T18:38:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidia-metaverse/</loc>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidia-referral-program/</loc>
+		<lastmod>2023-05-12T13:03:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidia-universe/</loc>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/lucidias-nft/</loc>
-		<lastmod>2023-04-24T21:53:23+00:00</lastmod>
+		<lastmod>2023-05-12T14:08:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidia2-0/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidiacommunity/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidiaexperience/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidiagamingecosystem/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidiaigos/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/lucidiametaverse/</loc>
-		<lastmod>2023-04-24T22:16:37+00:00</lastmod>
+		<lastmod>2023-05-12T10:10:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidiareferralprogram/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidiauniversity/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/lucidiawallet/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/lucidtoken/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T12:47:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/luxury-brands/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/machine-learning-algorithms/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/major-brands/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/making-friends/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/making-money/</loc>
-		<lastmod>2023-05-08T14:44:48+00:00</lastmod>
+		<lastmod>2023-05-10T20:21:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/market/</loc>
-		<lastmod>2023-04-24T22:10:17+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/marketcapitalization/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/marketing-and-selling-services/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/marketing-strategies/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/marketingcampaigns/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/marketopportunities/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/marketplace/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/meta-species/</loc>
-		<lastmod>2023-04-24T21:59:25+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/meta-species-embryos/</loc>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/metahuman/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/metahuman-avatar/</loc>
-		<lastmod>2023-04-24T21:53:22+00:00</lastmod>
+		<lastmod>2023-05-12T13:52:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/metaverse/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T13:52:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/metaverse-economy/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/metaverse-game/</loc>
-		<lastmod>2023-04-24T21:59:25+00:00</lastmod>
+		<lastmod>2023-05-12T11:37:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/metaverse-platform/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/metaverse-sector/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/metaverseecosystem/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/metaversegrowth/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/metaverseleadership/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/microtransactions/</loc>
-		<lastmod>2023-04-24T22:28:15+00:00</lastmod>
+		<lastmod>2023-05-10T20:21:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/milestones/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/minting/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/mobile-device/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/mobile-version/</loc>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/modifiablecourses/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/monetization/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T12:49:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/monetizationopportunities/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/monetize/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/multiplayer/</loc>
-		<lastmod>2023-04-24T22:14:44+00:00</lastmod>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/multiplayer-mode/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/narrative/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/natural-language-processing/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/network-security/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/nft/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nft-collections/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nft-technology/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nft-tokenization/</loc>
+		<lastmod>2023-05-10T16:08:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nft-trade/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nft-trading/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nftexchange/</loc>
+		<lastmod>2023-05-10T18:41:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nftmarketplace/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/nfts/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T12:49:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nfttowergalleries/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/nfttrading/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/non-fungible-tokens/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/non-fungible-tokens-nfts/</loc>
-		<lastmod>2023-04-24T22:00:53+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/npcs/</loc>
+		<lastmod>2023-05-10T16:15:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/oauth2-0/</loc>
-		<lastmod>2023-04-24T22:16:37+00:00</lastmod>
+		<lastmod>2023-05-10T20:50:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/off-chain/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/offchainmechanisms/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/on-chain/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/onboarding/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/online-business/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/online-exhibition-spaces/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/online-tournaments/</loc>
-		<lastmod>2023-04-24T22:02:07+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/online-world/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/onlinetutorials/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/open-platform/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/organicgrowth/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/originality/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/outfits/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/outside-identity-provider/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ownership/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/paidtournaments/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/partnerships-2/</loc>
-		<lastmod>2023-05-08T14:44:48+00:00</lastmod>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/partnerships-and-collaborations/</loc>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/partnerships-with-celebrities-and-influencers/</loc>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/partnerships-with-schools/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/partnerships/</loc>
-		<lastmod>2023-04-24T22:28:15+00:00</lastmod>
+		<lastmod>2023-05-10T20:21:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/passive-income/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/passiveincome/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/pc/</loc>
-		<lastmod>2023-04-24T22:24:57+00:00</lastmod>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/peer-to-peer-tutoring/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/persistent/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/personality/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/personalization/</loc>
-		<lastmod>2023-04-24T22:05:37+00:00</lastmod>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/personalized-content/</loc>
+		<lastmod>2023-05-12T11:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/personalized-game-worlds/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/personalizedracecourse/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/phased-release/</loc>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/phased-release-plan/</loc>
-		<lastmod>2023-04-24T22:24:57+00:00</lastmod>
+		<lastmod>2023-05-10T20:48:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/physics-simulation/</loc>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/physicssimulation/</loc>
-		<lastmod>2023-04-24T22:14:44+00:00</lastmod>
+		<lastmod>2023-05-12T10:05:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/platform-availability/</loc>
-		<lastmod>2023-04-24T22:18:00+00:00</lastmod>
+		<lastmod>2023-05-10T20:48:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/platformavailability/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/platformgrowth/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/platforms/</loc>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/play-to-earn/</loc>
 		<lastmod>2023-05-08T14:44:48+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/play-to-earn-model/</loc>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/play-to-win/</loc>
-		<lastmod>2023-04-24T21:44:28+00:00</lastmod>
+		<lastmod>2023-05-12T18:49:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/play2earn/</loc>
-		<lastmod>2023-04-24T22:13:18+00:00</lastmod>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/player-communication/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/player-rewards/</loc>
+		<lastmod>2023-05-12T13:03:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/playerinteraction/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/playhera/</loc>
-		<lastmod>2023-04-24T22:02:07+00:00</lastmod>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/playtoearn/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/playtoearnmodel/</loc>
+		<lastmod>2023-05-11T10:23:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/potential-for-development/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/potential-profit/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/potentialprofits/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/pre-sale/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/premium-access/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T12:47:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/premiumfeatures/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/premiumservices/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/presale/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/privacy/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/prizes/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/product-launches-2/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/profitable-crypto-pre-sale/</loc>
+		<lastmod>2023-05-10T15:32:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/profitableinvestment/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/programming-services/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/projectgrowth/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/projectvalue/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/race-nft/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/race-tracks/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/racenft/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/racetrack-construction/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/racing-game/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/racinggame/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/rankedgames/</loc>
+		<lastmod>2023-05-10T18:41:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/real-world-value/</loc>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/realism/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/realistic-experience/</loc>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/realworldmoney/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/reason-to-invest/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/reduced-development-costs/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/reliability/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/reserve/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/revenue-generation/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T12:49:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/revenue-potential/</loc>
+		<lastmod>2023-05-12T11:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/revenuestreams/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/rewards/</loc>
-		<lastmod>2023-04-24T22:18:00+00:00</lastmod>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/rewardssystem/</loc>
-		<lastmod>2023-04-24T22:08:42+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/roadmap2023/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/roadmap2024/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/roadmap2025/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/roblox/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/routines/</loc>
+		<lastmod>2023-05-10T15:38:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/royaltyfees/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/scalability/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/scarcity/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/schema/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/schemadigitalidentities/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/schools/</loc>
 		<lastmod>2023-05-08T12:09:41+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/sdk/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/secondary-market/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/secondarymarket/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/secret-character-state/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/secure/</loc>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/secure-transactions/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/security/</loc>
-		<lastmod>2023-04-24T22:19:41+00:00</lastmod>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/self-sovereign-data-store-ssds-sdk/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/selfsovereigndatastore/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/sell/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/selling-digital-art/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/services-monetization/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/shop-online/</loc>
-		<lastmod>2023-04-24T21:53:23+00:00</lastmod>
+		<lastmod>2023-05-12T14:08:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/shopping/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/single-sign-on-sso/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/single-player-campaign-mode/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/singlesignon/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/skills-monetization/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/small-creators/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/smart-contracts/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/smartcontracts/</loc>
+		<lastmod>2023-05-10T18:35:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/social-activity/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/social-engagement/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/social-interaction/</loc>
+		<lastmod>2023-05-12T11:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/socialgaming/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/softwarepricing/</loc>
+		<lastmod>2023-05-11T08:45:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/sound/</loc>
-		<lastmod>2023-04-24T22:14:44+00:00</lastmod>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/spinoffs/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/sponsorship/</loc>
-		<lastmod>2023-05-08T14:25:22+00:00</lastmod>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/sponsorship-opportunities/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/sponsorshipopportunities/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/sponsorships/</loc>
-		<lastmod>2023-05-08T14:44:48+00:00</lastmod>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/ssds/</loc>
-		<lastmod>2023-04-24T22:16:37+00:00</lastmod>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/sso/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/staked-tokens/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/staking/</loc>
-		<lastmod>2023-04-24T22:10:17+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/staking-program/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/strategy-game/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/strategy-games/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/studios/</loc>
+		<lastmod>2023-05-12T11:47:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/subscription/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T12:47:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/subscription-models/</loc>
-		<lastmod>2023-04-24T22:28:15+00:00</lastmod>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/subscriptionbasedservices/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/success-potential/</loc>
+		<lastmod>2023-05-10T15:26:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/supportservices/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/sustainablebusinessmodel/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/sustainableecosystem/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/tamagotchi/</loc>
-		<lastmod>2023-04-24T21:59:25+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tamagotchi-concept/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/team-objectives/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/teamwork/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/technology/</loc>
-		<lastmod>2023-04-24T21:53:23+00:00</lastmod>
+		<lastmod>2023-05-12T14:08:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tge/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/the-gaming-market/</loc>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/the-lucidia-metaverse/</loc>
-		<lastmod>2023-04-24T21:44:28+00:00</lastmod>
+		<lastmod>2023-05-12T18:49:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/the-metaverse-of-lucidia/</loc>
-		<lastmod>2023-04-24T21:53:24+00:00</lastmod>
+		<lastmod>2023-05-12T13:56:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ticket-sales/</loc>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/token-allocation/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/token-burning/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/token-generation-event/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/token-rewards/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/tokendistribution/</loc>
-		<lastmod>2023-04-24T22:08:42+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/tokeneconomics/</loc>
-		<lastmod>2023-04-24T22:08:42+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tokenization/</loc>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/tokenized-assets/</loc>
-		<lastmod>2023-04-24T21:53:21+00:00</lastmod>
+		<lastmod>2023-05-12T18:38:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tokenized-digital-assets/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tokenlaunch/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tokenomics/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tokens/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tools/</loc>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/top-speeds/</loc>
+		<lastmod>2023-05-12T11:56:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/tournament-events/</loc>
 		<lastmod>2023-05-08T14:44:48+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/tournaments/</loc>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/track-customization/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/tradableassets/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/trade/</loc>
+		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/trading/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/train2earn/</loc>
-		<lastmod>2023-04-24T22:18:00+00:00</lastmod>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/train2earn-incentive/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/train2earn-mechanism/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/train2learn/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/transaction-fees/</loc>
-		<lastmod>2023-05-08T14:43:30+00:00</lastmod>
+		<lastmod>2023-05-12T13:08:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/transactionfees/</loc>
+		<lastmod>2023-05-11T10:23:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/transparency/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/transparent/</loc>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/ui/</loc>
+		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/unique/</loc>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/unique-experience/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/unique-experiences/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/unique-referral-link/</loc>
+		<lastmod>2023-05-12T13:03:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/uniqueingameassets/</loc>
+		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/unityengine/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/universitypartnerships/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/unparalleled-graphics/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/unreal-engine-5/</loc>
-		<lastmod>2023-04-24T22:07:18+00:00</lastmod>
+		<lastmod>2023-05-12T12:06:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/unrealengine/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/unrealengine5/</loc>
-		<lastmod>2023-04-24T22:14:44+00:00</lastmod>
+		<lastmod>2023-05-12T10:05:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/up-to-datealgorithms/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/usecases/</loc>
-		<lastmod>2023-04-24T22:10:17+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/user-experience/</loc>
-		<lastmod>2023-05-08T12:09:17+00:00</lastmod>
+		<lastmod>2023-05-12T12:33:30+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/user-involvement/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/user-centered-experience/</loc>
+		<lastmod>2023-05-12T12:30:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/user-centric/</loc>
-		<lastmod>2023-04-24T22:18:00+00:00</lastmod>
+		<lastmod>2023-05-10T20:48:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/user-created-events/</loc>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/user-focused-ai/</loc>
+		<lastmod>2023-05-12T12:28:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/user-generated-content/</loc>
+		<lastmod>2023-05-10T14:58:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/user-generatedcontent/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/userbase/</loc>
+		<lastmod>2023-05-11T10:00:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/usercenteredai/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/userengagement/</loc>
+		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/userexperience/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/usergeneratedcontent/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/usergrowth/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/usersecurity/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/usertraining/</loc>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/valueproposition/</loc>
+		<lastmod>2023-05-11T10:23:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/vault/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/verifiable-credentials/</loc>
+		<lastmod>2023-05-12T12:24:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/verifiablecredentials/</loc>
-		<lastmod>2023-04-24T22:16:37+00:00</lastmod>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/vibrantmarketplace/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/videogames/</loc>
+		<lastmod>2023-05-10T18:26:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-art/</loc>
 		<lastmod>2023-05-08T12:09:31+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/virtual-assets/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-classrooms/</loc>
+		<lastmod>2023-05-10T15:21:58+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/virtual-commerce-metaverse-development/</loc>
-		<lastmod>2023-04-24T21:53:24+00:00</lastmod>
+		<lastmod>2023-05-12T13:56:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-concerts/</loc>
-		<lastmod>2023-05-08T12:09:35+00:00</lastmod>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-conferences/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-courses/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-economy/</loc>
+		<lastmod>2023-05-12T11:33:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-education/</loc>
 		<lastmod>2023-05-08T12:09:41+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/virtual-education-market/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/virtual-embryos/</loc>
-		<lastmod>2023-04-24T21:59:25+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-entertainment/</loc>
+		<lastmod>2023-05-12T11:40:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-events/</loc>
+		<lastmod>2023-05-12T13:16:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-experience/</loc>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-fitness-classes/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-galleries/</loc>
-		<lastmod>2023-04-24T21:53:23+00:00</lastmod>
+		<lastmod>2023-05-12T14:08:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-goods/</loc>
-		<lastmod>2023-04-24T22:28:15+00:00</lastmod>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-goods-and-assets/</loc>
+		<lastmod>2023-05-12T12:43:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-marketplace/</loc>
+		<lastmod>2023-05-12T11:23:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-presence/</loc>
-		<lastmod>2023-05-08T12:09:27+00:00</lastmod>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-property/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-real-estate/</loc>
+		<lastmod>2023-05-12T11:59:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-real-estate-leasing/</loc>
+		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-reality/</loc>
-		<lastmod>2023-04-24T22:02:07+00:00</lastmod>
+		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-reality-market/</loc>
+		<lastmod>2023-05-10T15:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-reality-2/</loc>
+		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-schools/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-sculptures/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-showrooms/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-space/</loc>
+		<lastmod>2023-05-12T11:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-study-groups/</loc>
+		<lastmod>2023-05-12T13:13:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtual-success/</loc>
+		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-world/</loc>
-		<lastmod>2023-05-08T12:09:27+00:00</lastmod>
+		<lastmod>2023-05-10T16:08:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/virtual-worlds/</loc>
-		<lastmod>2023-04-24T22:00:53+00:00</lastmod>
+		<lastmod>2023-05-12T10:03:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualbusinesses/</loc>
+		<lastmod>2023-05-11T10:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualconferences/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualcourses/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualmarketplace/</loc>
+		<lastmod>2023-05-11T10:42:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualproperty/</loc>
+		<lastmod>2023-05-10T18:41:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualrealestate/</loc>
+		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualreality/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualschooling/</loc>
+		<lastmod>2023-05-11T10:32:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualsoundeffects/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/virtualworld/</loc>
+		<lastmod>2023-05-11T08:54:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/vrgaming/</loc>
+		<lastmod>2023-05-11T07:19:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/vrintegration/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/vrtherapy/</loc>
+		<lastmod>2023-05-11T10:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/weaponry/</loc>
+		<lastmod>2023-05-12T11:50:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/weapons/</loc>
+		<lastmod>2023-05-10T18:30:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/web3/</loc>
+		<lastmod>2023-05-10T14:58:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/well-known-artists-and-designers/</loc>
+		<lastmod>2023-05-12T13:19:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/whitelisting/</loc>
+		<lastmod>2023-05-10T18:41:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/windows/</loc>
-		<lastmod>2023-04-24T22:24:57+00:00</lastmod>
+		<lastmod>2023-05-11T08:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/wordofmouth/</loc>
+		<lastmod>2023-05-11T10:17:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/writing-services/</loc>
+		<lastmod>2023-05-12T13:21:56+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->

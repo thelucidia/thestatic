@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Self-Sovereign Data Store (SSDS) SDK Archives - Lucidia</title>
+	<atom:link href="/academy/tag/self-sovereign-data-store-ssds-sdk/feed/" rel="self" type="application/rss+xml" />
+	<link>/academy/tag/self-sovereign-data-store-ssds-sdk/</link>
+	<description>AI-driven Metaverse &#38; Meta Characters. Earn rewards, while playing, training, and learning.</description>
+	<lastBuildDate>Fri, 12 May 2023 12:24:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/cropped-favicon-32x32.png</url>
+	<title>Self-Sovereign Data Store (SSDS) SDK Archives - Lucidia</title>
+	<link>/academy/tag/self-sovereign-data-store-ssds-sdk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How secured Lucidia Metaverse is</title>
+		<link>/academy/how-secured-lucidia-metaverse-is-2/</link>
+		
+		<dc:creator><![CDATA[Academy]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 12:23:34 +0000</pubDate>
+				<category><![CDATA[The Academy Series]]></category>
+		<category><![CDATA[account access]]></category>
+		<category><![CDATA[assets]]></category>
+		<category><![CDATA[data registry]]></category>
+		<category><![CDATA[digital content applications]]></category>
+		<category><![CDATA[digital identities]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[interoperable]]></category>
+		<category><![CDATA[key-value store]]></category>
+		<category><![CDATA[keys]]></category>
+		<category><![CDATA[Lucidia DID SDK]]></category>
+		<category><![CDATA[Lucidia Metaverse]]></category>
+		<category><![CDATA[persistent]]></category>
+		<category><![CDATA[schema]]></category>
+		<category><![CDATA[Self-Sovereign Data Store (SSDS) SDK]]></category>
+		<category><![CDATA[single sign-on (SSO)]]></category>
+		<category><![CDATA[Vault]]></category>
+		<category><![CDATA[verifiable credentials]]></category>
+		<guid isPermaLink="false">/?p=27453</guid>
+
+					<description><![CDATA[<p>A Self-Sovereign Data Store (SSDS) SDK is used by Lucidia Metaverse to manage the storage and access of verifiable credentials. This makes sure that user data and digital assets are handled in a safe and reliable way.   Management of Account Access The SSDS SDK is part of the Lucidia platform and is in charge [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/academy/how-secured-lucidia-metaverse-is-2/">How secured Lucidia Metaverse is</a> appeared first on <a rel="nofollow" href="/">Lucidia</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="27453" class="elementor elementor-27453">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-10e317f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="10e317f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4547afa" data-id="4547afa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7227430 elementor-widget elementor-widget-image" data-id="7227430" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" width="1024" height="768" src="/wp-content/uploads/2023/05/Article-16-1024x768.jpg" class="attachment-large size-large wp-image-27454" alt="" srcset="/wp-content/uploads/2023/05/Article-16-1024x768.jpg 1024w, /wp-content/uploads/2023/05/Article-16-300x225.jpg 300w, /wp-content/uploads/2023/05/Article-16-768x576.jpg 768w, /wp-content/uploads/2023/05/Article-16.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-104a2ea elementor-widget elementor-widget-text-editor" data-id="104a2ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">A Self-Sovereign Data Store (SSDS) SDK is used by Lucidia Metaverse to manage the storage and access of verifiable credentials. This makes sure that user data and digital assets are handled in a safe and reliable way.</span></p><p> </p><p><span style="font-weight: 400;">Management of Account Access</span></p><p><span style="font-weight: 400;">The SSDS SDK is part of the Lucidia platform and is in charge of creating accounts, encrypting data, and getting into the Vault. Users get into the Vault through a secure username and password system that is encrypted with Key Stretching algorithms like Scrypt or PBKDF2.</span></p><p> </p><p><span style="font-weight: 400;">Changes to the keys and SSO flow</span></p><p><span style="font-weight: 400;">The SDK makes it easy to change keys and manages the CentraPass decentralized OAuth 2.0 single sign-on (SSO) flow, which gives users a smooth and safe experience.</span></p><p> </p><p><span style="font-weight: 400;">Verifiable Credentials</span></p><p><span style="font-weight: 400;">Credentials that can be checked are stored in the SSDS and signed by parties that can be trusted. They can be given to users to store in the Vault, or they can be given back to the user to store on their own. There are different ways to make it easy for these credentials to be shared.</span></p><p> </p><p><span style="font-weight: 400;">Lucidia DID SDK</span></p><p><span style="font-weight: 400;">The Lucidia DID SDK provides a strong and safe way to manage digital identities and assets in the metaverse. It has tools for making, changing, and resolving DIDs (unique, persistent, and verifiable digital identities).</span></p><p> </p><p><span style="font-weight: 400;">Verifiable Data Registry</span></p><p><span style="font-weight: 400;">The SDK has a globally distributed key-value database that acts as a data registry and stores important information about identities and assets in the metaverse. This database is called a &#8220;key-value store.&#8221; Users can easily get and check these attributes by using the DID resolver component.</span></p><p> </p><p><span style="font-weight: 400;">A plan for digital identity and assets</span></p><p><span style="font-weight: 400;">The schema for digital identities and assets in the Lucidia metaverse is made to hold important information for digital content applications like the Unreal Engine or Unity engine. The schema also has service links for resolving digital assets. These service links are hosted by the issuers, who are the DIDs&#8217; controllers.</span></p><p> </p><p><span style="font-weight: 400;">In conclusion, the Lucidia Metaverse uses a complete system for managing digital identities and assets. This system makes sure that digital identities and assets are unique, interoperable, persistent, and can&#8217;t be changed. By using the SSDS SDK and the Lucidia DID SDK, the platform gives users and their digital assets a safe place to be in the metaverse.</span></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e3643be elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e3643be" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e439fbe" data-id="e439fbe" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9451632 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9451632" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/academy/how-secured-lucidia-metaverse-is-2/">How secured Lucidia Metaverse is</a> appeared first on <a rel="nofollow" href="/">Lucidia</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
