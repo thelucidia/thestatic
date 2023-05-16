@@ -10,7 +10,7 @@
 	</url>
 	<url>
 		<loc>/academy/tag/lucid-token-2/</loc>
-		<lastmod>2023-05-12T12:02:32+00:00</lastmod>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/20-bonus/</loc>
@@ -253,6 +253,10 @@
 		<lastmod>2023-05-12T11:42:53+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/bep-20/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/bestcryptoinvestments/</loc>
 		<lastmod>2023-05-11T10:13:49+00:00</lastmod>
 	</url>
@@ -267,6 +271,10 @@
 	<url>
 		<loc>/academy/tag/big-players/</loc>
 		<lastmod>2023-05-10T15:44:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/binance-smart-chain/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/blockchain/</loc>
@@ -286,7 +294,7 @@
 	</url>
 	<url>
 		<loc>/academy/tag/blockchain-technology/</loc>
-		<lastmod>2023-05-12T18:49:09+00:00</lastmod>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/blockchain-based-racing-game/</loc>
@@ -545,12 +553,20 @@
 		<lastmod>2023-05-11T07:04:10+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/crypto-investment/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/crypto-pre-sale/</loc>
 		<lastmod>2023-05-10T16:05:29+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/crypto-purchase/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/cryptocurrency/</loc>
-		<lastmod>2023-05-11T10:26:54+00:00</lastmod>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/cryptocurrency-exchanges/</loc>
@@ -685,6 +701,10 @@
 		<lastmod>2023-05-12T13:24:17+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/defi/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/designers/</loc>
 		<lastmod>2023-05-08T12:09:31+00:00</lastmod>
 	</url>
@@ -763,6 +783,10 @@
 	<url>
 		<loc>/academy/tag/digital-twin/</loc>
 		<lastmod>2023-05-12T13:52:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/digital-wallet/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/digital-world/</loc>
@@ -895,6 +919,10 @@
 	<url>
 		<loc>/academy/tag/environment-for-gaming/</loc>
 		<lastmod>2023-05-10T20:48:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/academy/tag/erc-20/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/esports/</loc>
@@ -1674,7 +1702,7 @@
 	</url>
 	<url>
 		<loc>/academy/tag/lucidia-finance/</loc>
-		<lastmod>2023-05-15T12:11:00+00:00</lastmod>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/lucidia-marketplace/</loc>
@@ -1802,7 +1830,7 @@
 	</url>
 	<url>
 		<loc>/academy/tag/metamask/</loc>
-		<lastmod>2023-05-15T12:11:00+00:00</lastmod>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/metaverse/</loc>
@@ -2269,6 +2297,10 @@
 		<lastmod>2023-05-15T12:11:00+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/academy/tag/referral-bonus/</loc>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/academy/tag/referral-code/</loc>
 		<lastmod>2023-05-15T12:11:00+00:00</lastmod>
 	</url>
@@ -2602,7 +2634,7 @@
 	</url>
 	<url>
 		<loc>/academy/tag/token-generation-event/</loc>
-		<lastmod>2023-05-10T18:38:49+00:00</lastmod>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/token-rewards/</loc>
@@ -2706,7 +2738,7 @@
 	</url>
 	<url>
 		<loc>/academy/tag/trust-wallet/</loc>
-		<lastmod>2023-05-15T12:11:00+00:00</lastmod>
+		<lastmod>2023-05-16T18:36:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/academy/tag/ui/</loc>
