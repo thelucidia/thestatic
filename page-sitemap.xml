@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-05-09T10:38:07+00:00</lastmod>
+		<lastmod>2023-05-16T22:06:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Lucidian3-1024x1019.png</image:loc>
 		</image:image>
@@ -67,25 +67,34 @@
 			<image:loc>/wp-content/uploads/2023/04/Lucidian_homepage-659x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner8-1-300x140.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Partner-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner5-1-300x140.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Partner2-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner7-1-300x140.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Partner3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner4-1-300x140.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Partner4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner2-1-300x140.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Partner5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner3-1-300x140.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Partner6.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner-1-300x140.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Partner7.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Partner8.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Partner9-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Partner10-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -150,112 +159,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about/</loc>
-		<lastmod>2023-05-03T18:36:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/hero_2-917x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/about_tech-1024x514.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen8.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen7.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen6.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Seen1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Gaming.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Graduate.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/AI.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/dumbell.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/02/Laptop_for_crypto_coin_mining_3d_illustration.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/Vector-sparkles.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/Vector-sparkles.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/hand-ball-finger-pointing-up-direction-gesture-minimal-fashion-concept-simple-clean-design-limb-prosthesis-961x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner8-1-300x140.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner5-1-300x140.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner7-1-300x140.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner4-1-300x140.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner2-1-300x140.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner3-1-300x140.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Partner-1-300x140.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/token-sale-terms-and-conditions/</loc>
 		<lastmod>2023-05-03T19:52:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Lucidia-logo.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/faq/</loc>
-		<lastmod>2023-05-08T10:33:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Lucidia-logo.jpg</image:loc>
 		</image:image>
@@ -265,15 +170,72 @@
 		<lastmod>2023-05-08T10:33:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/token-allocation/</loc>
-		<lastmod>2023-05-08T10:33:51+00:00</lastmod>
+		<loc>/team/</loc>
+		<lastmod>2023-05-09T10:57:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Token_Allocation_Main2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/ADEL.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/FERAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/AHMAD.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/DEN.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/JAHONGIR.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/GORO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/MARIUS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/RULA.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/VICTORIA.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/OSCAR.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/faq/</loc>
+		<lastmod>2023-05-12T17:25:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Lucidia-logo.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/roadmap/</loc>
+		<lastmod>2023-05-12T17:34:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Article-23.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/lucidia-intro/</loc>
+		<lastmod>2023-05-13T17:03:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/zombie-outbreak-preview/</loc>
+		<lastmod>2023-05-13T17:10:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/zombie-outbreak/</loc>
+		<lastmod>2023-05-13T17:13:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/lucidcraft-gameplay/</loc>
+		<lastmod>2023-05-13T17:15:00+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/play-now/</loc>
-		<lastmod>2023-05-09T10:43:23+00:00</lastmod>
+		<lastmod>2023-05-15T12:12:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/ue-logo-stacked-unreal-engine.png</image:loc>
 		</image:image>
@@ -387,42 +349,108 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/team/</loc>
-		<lastmod>2023-05-09T10:57:55+00:00</lastmod>
+		<loc>/about/</loc>
+		<lastmod>2023-05-16T16:59:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/ADEL.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/hero_2-917x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/FERAS.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/04/about_tech-1024x514.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/AHMAD.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen8.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/DEN.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen7.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/JAHONGIR.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen6.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/GORO.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MARIUS.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/RULA.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/VICTORIA.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/OSCAR.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/Seen1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Gaming.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Graduate.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/AI.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/dumbell.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/02/Laptop_for_crypto_coin_mining_3d_illustration.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Vector-sparkles.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/Vector-sparkles.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/hand-ball-finger-pointing-up-direction-gesture-minimal-fashion-concept-simple-clean-design-limb-prosthesis-961x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/circle.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Partner8-1-300x140.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Partner5-1-300x140.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Partner7-1-300x140.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Partner4-1-300x140.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Partner2-1-300x140.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Partner3-1-300x140.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Partner-1-300x140.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/roadmap/</loc>
-		<lastmod>2023-05-09T20:28:36+00:00</lastmod>
+		<loc>/token-allocation/</loc>
+		<lastmod>2023-05-16T21:58:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Tokenomics_web.png</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
