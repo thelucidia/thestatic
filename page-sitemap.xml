@@ -170,40 +170,6 @@
 		<lastmod>2023-05-08T10:33:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/team/</loc>
-		<lastmod>2023-05-09T10:57:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/ADEL.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/FERAS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/AHMAD.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/DEN.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/JAHONGIR.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/GORO.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MARIUS.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/RULA.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/VICTORIA.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/OSCAR.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/faq/</loc>
 		<lastmod>2023-05-12T17:25:53+00:00</lastmod>
 		<image:image>
@@ -450,6 +416,46 @@
 		<lastmod>2023-05-16T21:58:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Tokenomics_web.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/team/</loc>
+		<lastmod>2023-06-03T12:09:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/ADEL.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/FERAS.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/AHMAD.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/DEN.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/JAHONGIR.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/GORO.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/MARIUS2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/RULA.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/VICTORIA.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/OSCAR.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/Al_Rizqi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/06/SANDER.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
